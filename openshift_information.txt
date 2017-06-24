@@ -1,0 +1,32 @@
+MySQL 5.5 database added.  Please make note of these credentials:
+
+       Root User: adminG12Vyat
+   Root Password: JKv3UVdVcXzj
+   Database Name: nodejs
+
+Connection URL: mysql://$OPENSHIFT_MYSQL_DB_HOST:$OPENSHIFT_MYSQL_DB_PORT/
+
+You can manage your new MySQL database by also embedding phpmyadmin.
+The phpmyadmin username and password will be the same as the MySQL credentials above.
+
+///////////////////////////
+Please make note of these MySQL credentials again:
+  Root User: adminG12Vyat
+  Root Password: JKv3UVdVcXzj
+URL: https://nodejs-1212491.rhcloud.com/phpmyadmin/
+//////////////////////
+USING
+Your account number is: 223884
+
+Your new database is now ready to use.
+
+To connect to your database use these details
+
+Server: sql12.freemysqlhosting.net
+Name: sql12181872
+Username: sql12181872
+Password: WsH12t5FgN
+Port number: 3306
+
+phpMyAdmin
+//////////////////////

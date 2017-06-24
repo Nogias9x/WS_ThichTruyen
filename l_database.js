@@ -1,10 +1,10 @@
 var mysql = require('mysql'),
     q = require('q');
 
-var _HOST = '127.0.0.1',
-    _USER = 'root',
-    _PWD = '',
-    _DB = 'db_thich_truyen';
+var _HOST = 'sql12.freemysqlhosting.net', 
+    _USER = 'sql12181872',
+    _PWD = 'WsH12t5FgN',
+    _DB = 'sql12181872';
 
 
 // DATABASE
