@@ -1,0 +1,2 @@
+Database: http://wsthichtruyen-1212491.rhcloud.com/phpmyadmin/import.php#PMAURL-1:db_structure.php?db=wsthichtruyen&table=&server=1&target=&token=eb8436b16e0353570c77485d93ae839d
+Webservice: http://wsthichtruyen-1212491.rhcloud.com/

@@ -1,0 +1,21 @@
+{
+  "name": "ws_thich_truyen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "morgan": "^1.8.2",
+    "mustache": "^2.3.0",
+    "mysql": "^2.13.0",
+    "q": "^1.5.0",
+    "util": "^0.10.3"
+  }
+}
