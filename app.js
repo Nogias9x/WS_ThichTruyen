@@ -9,7 +9,7 @@ var express = require('express'),
     myUtil = require('./myUtil.js');
 
 
-const PORT = 12491;
+const PORT = 8080;
 var app = express();
 
 // cho phép truy xuất các file trong thư mục thông qua URL
@@ -29,8 +29,8 @@ app.use('/', appController);
 
 app.use(handle404);
 
-app.listen(PORT, function() {
-    console.log('SERVER is running at port ' + PORT);
+app.listen(process.env.PORT || PORT, function() {
+    console.log('SERVER is running');
 });
 
 
